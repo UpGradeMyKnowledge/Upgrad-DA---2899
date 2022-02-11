@@ -1,0 +1,4 @@
+Question: 1
+
+Go to Project Gutenberg(https://www.gutenberg.org/) and find a page of text from Shakespeare. Paste it into a triple-quoted string. Create another string with a paragraph of text from Ralph Waldo Emerson. Use the string's .split method to get a list of words from each. Using set operations find the common words and words unique to both authors.
+
